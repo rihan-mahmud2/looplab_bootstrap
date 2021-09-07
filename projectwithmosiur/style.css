@@ -1,0 +1,43 @@
+
+.navbar{
+    border-bottom: 3px solid #008ed6;
+    background-color: #292b2c;
+    opacity: .7;
+}
+
+#home-section{
+    background-image: url("imag/banner.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    min-height: 700px;
+   
+ 
+}
+
+  
+.dark-overlay{
+    background: rgba(0, 0, 0, 0.7);
+    min-height: 700px;
+}
+
+.fa{
+    background: white;
+    padding: 4px;
+    font-size: 30px;
+    border-radius: 5px;
+}
+
+.home-inner{
+   padding-top: 150px;
+   padding-bottom: 50px;
+}
+
+.fa{
+    font-size: 36px;
+    background-color: black;
+    color: white;
+    padding: 10px;
+}
+
